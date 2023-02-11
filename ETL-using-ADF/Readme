@@ -1,1 +1,4 @@
-
+In this sample data engineering project, we performed out ETL Operation in our dataset of employees using Azure Data Factory.
+We created a data factory and azure blob storage, linked them with each other. Then we uploaded our dataset from the blobstorage to the factory.
+This project is focused around the extraction of the employees working in the IT department of the company. Then we created a pipeline which reads the data from
+the proj-source container and on the completion of the work, uploads in the "Prod" container. We used the azure expressions to extract the data.
