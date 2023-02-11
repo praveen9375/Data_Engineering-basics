@@ -1,1 +1,3 @@
-
+The project revolves around the simple idea of data wrangling using the dataset data. We used the data on our local machines for this project.
+We built the spark session, read the csv from our devices. Some of the the columns were renamed while some were dropped. We analyzed the basic spark properties and 
+functionalities for the project.
