@@ -1,0 +1,24 @@
+{
+    "now": "2023-02-11T10:50:29.171Z",
+    "perfNow": 2230241.7,
+    "diagnosticCorrelation": "e308e15b-f156-49d7-bff7-c55d9d497779",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.020523.4",
+        "environmentType": 3,
+        "resourceName": "Proje1",
+        "resourceRegion": "southeastasia",
+        "resourceGroup": "PrashADFProjETL",
+        "subscriptionId": "be4b6961-a7a9-4a89-a475-58a2aa404522",
+        "sessionId": "EjqhXz+n40uuU+p2LxjMXM",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "0673a4a2-f1b5-402e-9f60-5b1bb8d808c1"
+    },
+    "additionalInfo": {
+        "selectedResource": "ETL_Operation",
+        "selectedResourceType": "pipeline",
+        "dataFlowSessionId": "093738ae-5c48-4df5-a6ff-e6b425fff466"
+    }
+}

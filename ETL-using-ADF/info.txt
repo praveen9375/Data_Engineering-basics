@@ -1,0 +1,7 @@
+selected resource name:		ETL_Operation
+selected resource type:		pipeline
+factory name:			Proje1
+factory location:		southeastasia
+subscription id:		be4b6961-a7a9-4a89-a475-58a2aa404522
+data flow session id:		093738ae-5c48-4df5-a6ff-e6b425fff466
+time of download (UTC):		Sat, 11 Feb 2023 10:50:29 GMT
